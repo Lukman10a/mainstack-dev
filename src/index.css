@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Test Söhne";
+  src: url("../public/fonts/TestSöhne-Buch.otf");
+}
